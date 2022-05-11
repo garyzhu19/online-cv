@@ -3,191 +3,138 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Gary Zhu
+    tagline: Software Developer
+    avatar: IMG8662.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: Garyzhu19.com
+    phone: 604-729-3597
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: Garyzhu19.github.io #do not add http://
+    linkedin: Zhu-Gary
+    xing: 
+    github: Garyzhu19
     telegram: # add your nickname without '@' sign
-    gitlab:
+    gitlab: Garyzhu19
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://drive.google.com/file/d/1O9LoHrKwPpOLL8uQZdlF98dJB9MkgRoS/view?usp=sharing
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Cantonese
+        level: Limited Working Proficiency
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Mandarian
+        level: Elementary Working Proficiency
 
     interests:
-      - item: Climbing
+      - item: Cycling
         link:
 
-      - item: Snowboarding
+      - item: Badminton
         link:
 
-      - item: Cooking
+      - item: Esports
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Ever since competing in robotics, I have been passionate about technology and innovation.
+      I recently graduated with a Bachelor of Applied Science (Electrical Engineering) with Co-Op experiences.
+      I have done two internships during my undergraduate studies. 
+        - My first internship was at a PCB fabrication firm, where I did computer aid design for printed circuit boards. 
+        - My second intership was software engineering where I created and improved software for products and internal testing equipment. 
+      
+      During my undergraduate, I focused mainly on software engineering by taking many software courses. Specific software courses completed are listed below, 
+        - Machine Learning Fundamentals for Engineers (ELEC 400M), Real-Time System Design (CPEN 432), Deep Learning (CPEN 400D)
+        - System Software Engineering (CPEN 333), Data Structures and Algorithms for Electrical Engineers (CPSC 259)
+
+      Additionally, I created a deep leraning model for my Capstone project. I am fairly familiar with C++, C, Python and assembly programming languages.
+      Also, I have experience with MATLAB, Altium, CAD and various electrical equipment such as multimeter, oscilloscope and soldering iron.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor of Applied Science (Electrical Engineering) 
+      university: University of British Columbia
+      time: 2017 - 2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Completed all required electrical engineering courses along with software courses. Specific software courses completed are listed below, 
+          - Machine Learning Fundamentals for Engineers (ELEC 400M), Real-Time System Design (CPEN 432), Deep Learning (CPEN 400D)
+          - System Software Engineering (CPEN 333), Data Structures and Algorithms for Electrical Engineers (CPSC 259)
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Engineering Co-op Student
+      time: Sep 2019 - Apr 2020
+      company: Tangio Printed Electronics, North Vancouver
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Constructed a robot with off the shelf (OTS) CNC machine parts to efficiently and quantitively evaluate products to ensure performance is within specifications.
+        - Programmed a robot using C++, providing intuitive controls to systematically test products.
+        - Reprogrammed a 3D Multi-Touch Matrix (touch pad with force detection) using C++, providing higher resolution and more data visualization features.
+        - Created a user friendly interface application to control and build tests for inhouse testing robot.
+    - role: Computer Aid Design Operator
+      time: Jan 2019 - Sep 2019
+      company: Canadian Circuits Inc, Surrey
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Evaluated all projects by manufacturability and modifying client’s design for ease of fabrication.
+        - Validated designs of accidental mistakes and presented modifications to client for approval prior to production, to avoid costly mistakes.
+        - Notified risks to production team to ensure team avoids pitfalls and project production meets deadline.
+        - Provided manufacturing information and recommendations to customers to decrease manufacturing time and reduce cost.
+    - role: Technician
+      time: Mar 2021 - Present
+      company: West Point Cycles, Vancouver
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Built bikes from boxes to their correct specification ensuring safety of the rider.
+        - Worked efficiently and quickly under time pressure due to cycling COVID boom to keep up with demand of bikes.
+        - Adapted throughout the day prioritizing new urgent tasks as they appeared to ensure all tasks are done within their respected deadlines
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Street Parking Detection Using Deep Learning
+        link: "https://drive.google.com/file/d/1NHfDsYC87bIM2R7VOGkOlPpxji_UCLbV/view?usp=sharing"
+        tagline: |
+            - Labeled images manually using CVAT to ensure custom annotated data is consistent.
+            - Trained a deep learning model (YOLOv4) noting loss, mean average precision (MaP) and testing scores to see improvements over revisions. 
+            - Analyzed the training and testing data to improve the model performance and to prevent overfitting.
+            - Communicated progresses of the project to clients professionally and taken feedback in tunning the model.
+      - title: FreeRTOS Task Scheduling
+        tagline: |
+            - Implemented SRP and EDF with CBS Server task schedulers in C with FreeRTOS as the base code. 
+            - Collaborated with other teammates on GitLab for implementation strategies and code reviews to ensure efficient and correct implementations. 
+            - Documented the entire code base with Doxygen to verify the code is well documented. 
+            - Coded with MISRA C:2012 coding standard to validate code is safely implemented.
+      - title: MNIST Database Classifiers
+        tagline: |
+            - Researched various machine learning classifiers for image classification prior to implementation.
+            - Analyzed 5 different classifiers results to see which classifiers work better for which digits of the MNIST dataset.
+            - Used the best classifiers for specific digits and combined the classifiers to create the overall classifier output.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C & C++
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: SQL
+        level: 90%
 
-      - name: HTML5 & CSS
+      - name: UML
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: AutoCAD & SolidWorks
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Verilog
+        level: 95%
