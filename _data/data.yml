@@ -79,7 +79,7 @@ experiences:
         - Constructed a robot with off the shelf (OTS) CNC machine parts to efficiently and quantitively evaluate products to ensure performance is within specifications.
         - Programmed a robot using C++, providing intuitive controls to systematically test products.
         - Reprogrammed a 3D Multi-Touch Matrix (touch pad with force detection) using C++, providing higher resolution and more data visualization features.
-        - Created a user friendly interface application to control and build tests for inhouse testing robot.
+        - Created a user friendly graphic user interface with C++ (QT Library), to control and build tests for inhouse testing robot.
     - role: Computer Aid Design Operator
       time: Jan 2019 - Sep 2019
       company: Canadian Circuits Inc, Surrey
